@@ -1,0 +1,201 @@
+id,comment,theme,sentiment,date
+1,I walked in with a bad cut on my hand. The doctor explained everything in plain words. I felt well looked after.,Staff communication,positive,2025-09-10
+2,My father is elderly and had a dizzy spell. Nobody explained what the tests were for. This needs to change.,Staff communication,negative,2025-07-17
+3,"I arrived by ambulance late in the evening. I was seen within twenty minutes, much faster than I expected. Thank you to the team.",Waiting time,positive,2026-04-14
+4,My father is elderly and had a dizzy spell. I did not understand why I was given a low priority. I hope this can be improved.,Triage process,negative,2026-02-15
+5,My mother was sent in by her GP on a weekday morning. The children's area was bright and well kept. It made a stressful day much easier.,Cleanliness and facilities,positive,2025-12-22
+6,I arrived by ambulance late in the evening. The toilets were clean and there was a water station. Thank you to the team.,Cleanliness and facilities,positive,2025-08-17
+7,I took my daughter in with a high fever at 2 am. A nurse brought my mother a blanket and a cup of tea. I would recommend this hospital.,Staff kindness,positive,2025-07-23
+8,I brought my son in after a fall at school. The signs were confusing and we went to the wrong entrance. It was a very stressful experience.,Parking and access,negative,2026-04-09
+9,I went in with severe stomach pain on a public holiday. The toilets were dirty and had no soap. I hope this can be improved.,Cleanliness and facilities,negative,2026-06-26
+10,I arrived by ambulance late in the evening. The nurse kept checking in and told us what would happen next. Thank you to the team.,Staff communication,positive,2025-10-28
+11,I walked in with a bad cut on my hand. I had to keep asking before anyone gave me an answer. I left feeling frustrated.,Staff communication,negative,2025-09-22
+12,I arrived by ambulance late in the evening. I never received the letter for my GP. I left feeling frustrated.,Discharge information,negative,2026-06-25
+13,My mother was sent in by her GP on a weekday morning. Different staff told me different things. I hope this can be improved.,Staff communication,negative,2026-02-22
+14,My father is elderly and had a dizzy spell. The front desk staff seemed annoyed when I asked a question. I left feeling frustrated.,Staff kindness,negative,2025-07-29
+15,I took my daughter in with a high fever at 2 am. Triage was quick and they explained why others might go first. I would recommend this hospital.,Triage process,positive,2025-08-03
+16,I took my daughter in with a high fever at 2 am. The triage questions felt rushed and I forgot to mention things. This needs to change.,Triage process,negative,2026-01-19
+17,I walked in with a bad cut on my hand. Parking was close and easy to find. I felt well looked after.,Parking and access,positive,2026-04-14
+18,I went in with severe stomach pain on a public holiday. The toilets were dirty and had no soap. This needs to change.,Cleanliness and facilities,negative,2026-01-02
+19,My father is elderly and had a dizzy spell. Triage was quick and they explained why others might go first. Thank you to the team.,Triage process,positive,2025-07-25
+20,My mother was sent in by her GP on a weekday morning. They listened to my questions and did not rush me. It made a stressful day much easier.,Staff communication,positive,2026-05-02
+21,"My husband had trouble breathing, so we went straight in. I had to keep asking before anyone gave me an answer. I left feeling frustrated.",Staff communication,negative,2026-04-10
+22,I brought my son in after a fall at school. The waiting room was full and people who came later went in first. I left feeling frustrated.,Waiting time,negative,2025-08-27
+23,My mother was sent in by her GP on a weekday morning. The toilets were dirty and had no soap. It was a very stressful experience.,Cleanliness and facilities,negative,2025-11-12
+24,I brought my son in after a fall at school. Nobody asked how bad the pain was. I left feeling frustrated.,Pain management,negative,2026-05-24
+25,I took my daughter in with a high fever at 2 am. The triage nurse saw me straight away and was very thorough. Thank you to the team.,Triage process,positive,2026-05-03
+26,I came in on a Saturday night with chest pain. I was sent home without knowing what to do next. I left feeling frustrated.,Discharge information,negative,2025-12-05
+27,I arrived by ambulance late in the evening. The triage nurse noticed how unwell I was and acted fast. Thank you to the team.,Triage process,positive,2025-08-13
+28,My father is elderly and had a dizzy spell. Parking was close and easy to find. I felt well looked after.,Parking and access,positive,2026-06-03
+29,My mother was sent in by her GP on a weekday morning. The signs were confusing and we went to the wrong entrance. This needs to change.,Parking and access,negative,2025-10-17
+30,I walked in with a bad cut on my hand. I did not understand why I was given a low priority. I left feeling frustrated.,Triage process,negative,2026-02-10
+31,I arrived by ambulance late in the evening. Parking was close and easy to find. Thank you to the team.,Parking and access,positive,2025-12-21
+32,My father is elderly and had a dizzy spell. Nobody told us how long the wait would be. I hope this can be improved.,Waiting time,negative,2025-07-04
+33,I came in on a Saturday night with chest pain. Different staff told me different things. It was a very stressful experience.,Staff communication,negative,2025-07-17
+34,My father is elderly and had a dizzy spell. I got clear written instructions before I went home. I would recommend this hospital.,Discharge information,positive,2026-06-08
+35,My father is elderly and had a dizzy spell. Parking was close and easy to find. It made a stressful day much easier.,Parking and access,positive,2025-11-02
+36,I arrived by ambulance late in the evening. Parking was expensive and the car park was full. It was a very stressful experience.,Parking and access,negative,2026-06-03
+37,"My husband had trouble breathing, so we went straight in. I felt like a number, not a person. This needs to change.",Staff kindness,negative,2025-07-28
+38,"My husband had trouble breathing, so we went straight in. They listened to my questions and did not rush me. I would recommend this hospital.",Staff communication,positive,2025-08-25
+39,I arrived by ambulance late in the evening. The triage nurse noticed how unwell I was and acted fast. It made a stressful day much easier.,Triage process,positive,2025-09-10
+40,I walked in with a bad cut on my hand. A nurse brought my mother a blanket and a cup of tea. I felt well looked after.,Staff kindness,positive,2025-08-08
+41,I brought my son in after a fall at school. Parking was expensive and the car park was full. It was a very stressful experience.,Parking and access,negative,2025-08-17
+42,"My husband had trouble breathing, so we went straight in. Triage was quick and they explained why others might go first. It made a stressful day much easier.",Triage process,positive,2025-10-18
+43,My mother was sent in by her GP on a weekday morning. A nurse brought my mother a blanket and a cup of tea. Thank you to the team.,Staff kindness,positive,2026-01-16
+44,I walked in with a bad cut on my hand. The toilets were dirty and had no soap. This needs to change.,Cleanliness and facilities,negative,2025-09-18
+45,I arrived by ambulance late in the evening. The triage questions felt rushed and I forgot to mention things. It was a very stressful experience.,Triage process,negative,2025-12-08
+46,I went in with severe stomach pain on a public holiday. The wait was short and the screen showed how long was left. I felt well looked after.,Waiting time,positive,2025-07-30
+47,I brought my son in after a fall at school. They listened to my questions and did not rush me. Thank you to the team.,Staff communication,positive,2026-06-11
+48,I brought my son in after a fall at school. There was a long queue just to speak to the triage nurse. I hope this can be improved.,Triage process,negative,2026-04-23
+49,I brought my son in after a fall at school. We sat for hours with no update at all. I left feeling frustrated.,Waiting time,negative,2025-11-11
+50,I took my daughter in with a high fever at 2 am. The triage questions felt rushed and I forgot to mention things. I left feeling frustrated.,Triage process,negative,2026-01-19
+51,I walked in with a bad cut on my hand. I asked for pain relief twice and nothing happened. I left feeling frustrated.,Pain management,negative,2025-08-07
+52,I went in with severe stomach pain on a public holiday. I waited more than five hours before a doctor saw me. It was a very stressful experience.,Waiting time,negative,2026-04-02
+53,I walked in with a bad cut on my hand. The triage questions felt rushed and I forgot to mention things. I left feeling frustrated.,Triage process,negative,2025-08-05
+54,I walked in with a bad cut on my hand. The triage questions felt rushed and I forgot to mention things. This needs to change.,Triage process,negative,2026-04-05
+55,My father is elderly and had a dizzy spell. The waiting room chairs were hard and there were not enough of them. I left feeling frustrated.,Cleanliness and facilities,negative,2026-06-05
+56,I walked in with a bad cut on my hand. The doctor explained everything in plain words. Thank you to the team.,Staff communication,positive,2026-04-10
+57,I walked in with a bad cut on my hand. Nobody asked how bad the pain was. I hope this can be improved.,Pain management,negative,2025-12-23
+58,I walked in with a bad cut on my hand. There was a long queue just to speak to the triage nurse. This needs to change.,Triage process,negative,2025-11-06
+59,"My husband had trouble breathing, so we went straight in. The wait was short and the screen showed how long was left. Thank you to the team.",Waiting time,positive,2025-07-02
+60,I walked in with a bad cut on my hand. I got clear written instructions before I went home. It made a stressful day much easier.,Discharge information,positive,2026-04-09
+61,I came in on a Saturday night with chest pain. The front desk staff seemed annoyed when I asked a question. It was a very stressful experience.,Staff kindness,negative,2026-06-19
+62,I came in on a Saturday night with chest pain. I asked for pain relief twice and nothing happened. I hope this can be improved.,Pain management,negative,2026-02-06
+63,I walked in with a bad cut on my hand. The nurse asked about my pain often and adjusted the medicine. Thank you to the team.,Pain management,positive,2025-12-31
+64,I arrived by ambulance late in the evening. There was a long queue just to speak to the triage nurse. It was a very stressful experience.,Triage process,negative,2025-12-29
+65,My mother was sent in by her GP on a weekday morning. The front desk staff seemed annoyed when I asked a question. I hope this can be improved.,Staff kindness,negative,2025-09-29
+66,My mother was sent in by her GP on a weekday morning. The staff treated us with respect even though they were busy. I would recommend this hospital.,Staff kindness,positive,2026-01-27
+67,My mother was sent in by her GP on a weekday morning. There was a long queue just to speak to the triage nurse. It was a very stressful experience.,Triage process,negative,2026-01-12
+68,I arrived by ambulance late in the evening. Nobody told us how long the wait would be. This needs to change.,Waiting time,negative,2025-12-27
+69,I arrived by ambulance late in the evening. The department was clean and the bed area was tidy. I felt well looked after.,Cleanliness and facilities,positive,2026-01-21
+70,I brought my son in after a fall at school. The discharge was rushed and nobody explained my medicine. I left feeling frustrated.,Discharge information,negative,2026-05-25
+71,"My father is elderly and had a dizzy spell. I felt like a number, not a person. It was a very stressful experience.",Staff kindness,negative,2025-08-29
+72,I went in with severe stomach pain on a public holiday. The toilets were clean and there was a water station. Thank you to the team.,Cleanliness and facilities,positive,2025-08-25
+73,"I took my daughter in with a high fever at 2 am. I felt like a number, not a person. It was a very stressful experience.",Staff kindness,negative,2026-01-14
+74,I came in on a Saturday night with chest pain. There was a long queue just to speak to the triage nurse. This needs to change.,Triage process,negative,2025-07-01
+75,"My husband had trouble breathing, so we went straight in. The triage questions felt rushed and I forgot to mention things. I left feeling frustrated.",Triage process,negative,2026-05-16
+76,I brought my son in after a fall at school. I never received the letter for my GP. I left feeling frustrated.,Discharge information,negative,2026-03-17
+77,"My husband had trouble breathing, so we went straight in. The toilets were dirty and had no soap. This needs to change.",Cleanliness and facilities,negative,2026-06-22
+78,My mother was sent in by her GP on a weekday morning. The waiting room chairs were hard and there were not enough of them. This needs to change.,Cleanliness and facilities,negative,2026-06-06
+79,My mother was sent in by her GP on a weekday morning. One staff member was quite short with my elderly father. I left feeling frustrated.,Staff kindness,negative,2026-01-24
+80,I walked in with a bad cut on my hand. Nobody told us how long the wait would be. This needs to change.,Waiting time,negative,2026-04-23
+81,I came in after a car accident on a Monday afternoon. The discharge was rushed and nobody explained my medicine. I hope this can be improved.,Discharge information,negative,2026-03-19
+82,My mother was sent in by her GP on a weekday morning. It was a long walk from the car park for someone in pain. It was a very stressful experience.,Parking and access,negative,2025-11-23
+83,I arrived by ambulance late in the evening. The nurse made sure I knew the warning signs to watch for. I would recommend this hospital.,Discharge information,positive,2025-10-24
+84,I came in on a Saturday night with chest pain. The triage nurse saw me straight away and was very thorough. I felt well looked after.,Triage process,positive,2026-03-01
+85,"My husband had trouble breathing, so we went straight in. Different staff told me different things. This needs to change.",Staff communication,negative,2026-03-11
+86,My mother was sent in by her GP on a weekday morning. The staff treated us with respect even though they were busy. Thank you to the team.,Staff kindness,positive,2025-08-24
+87,My mother was sent in by her GP on a weekday morning. The staff treated us with respect even though they were busy. It made a stressful day much easier.,Staff kindness,positive,2025-07-26
+88,I came in after a car accident on a Monday afternoon. The triage nurse saw me straight away and was very thorough. It made a stressful day much easier.,Triage process,positive,2026-06-07
+89,I went in with severe stomach pain on a public holiday. I never received the letter for my GP. This needs to change.,Discharge information,negative,2026-04-07
+90,I came in after a car accident on a Monday afternoon. The signs made it easy to find the emergency entrance. I would recommend this hospital.,Parking and access,positive,2025-11-04
+91,I came in after a car accident on a Monday afternoon. It was very cold and noisy in the waiting area. I hope this can be improved.,Cleanliness and facilities,negative,2025-11-18
+92,I walked in with a bad cut on my hand. Parking was close and easy to find. I would recommend this hospital.,Parking and access,positive,2025-12-19
+93,I brought my son in after a fall at school. I was sent home without knowing what to do next. I hope this can be improved.,Discharge information,negative,2025-10-27
+94,My mother was sent in by her GP on a weekday morning. One staff member was quite short with my elderly father. I hope this can be improved.,Staff kindness,negative,2025-08-02
+95,I took my daughter in with a high fever at 2 am. One staff member was quite short with my elderly father. This needs to change.,Staff kindness,negative,2026-01-29
+96,"I came in on a Saturday night with chest pain. I felt like a number, not a person. I left feeling frustrated.",Staff kindness,negative,2026-01-16
+97,My father is elderly and had a dizzy spell. One staff member was quite short with my elderly father. I hope this can be improved.,Staff kindness,negative,2026-03-07
+98,"My husband had trouble breathing, so we went straight in. I did not understand why I was given a low priority. It was a very stressful experience.",Triage process,negative,2026-01-16
+99,"My husband had trouble breathing, so we went straight in. I never received the letter for my GP. I hope this can be improved.",Discharge information,negative,2026-02-25
+100,My father is elderly and had a dizzy spell. I waited three hours in pain before getting any relief. This needs to change.,Pain management,negative,2026-04-30
+101,"My husband had trouble breathing, so we went straight in. I was seen within twenty minutes, much faster than I expected. It made a stressful day much easier.",Waiting time,positive,2025-10-02
+102,"My husband had trouble breathing, so we went straight in. The waiting room was full and people who came later went in first. I hope this can be improved.",Waiting time,negative,2026-02-18
+103,"My husband had trouble breathing, so we went straight in. The discharge was rushed and nobody explained my medicine. This needs to change.",Discharge information,negative,2025-11-07
+104,I came in on a Saturday night with chest pain. Nobody explained what the tests were for. I left feeling frustrated.,Staff communication,negative,2025-10-23
+105,I came in on a Saturday night with chest pain. Nobody explained what the tests were for. I hope this can be improved.,Staff communication,negative,2025-10-11
+106,My mother was sent in by her GP on a weekday morning. Nobody told us how long the wait would be. I hope this can be improved.,Waiting time,negative,2026-02-28
+107,I arrived by ambulance late in the evening. I had to keep asking before anyone gave me an answer. I left feeling frustrated.,Staff communication,negative,2026-01-05
+108,I went in with severe stomach pain on a public holiday. Nobody asked how bad the pain was. It was a very stressful experience.,Pain management,negative,2025-09-22
+109,I went in with severe stomach pain on a public holiday. The department was clean and the bed area was tidy. I would recommend this hospital.,Cleanliness and facilities,positive,2026-04-21
+110,I arrived by ambulance late in the evening. The front desk staff seemed annoyed when I asked a question. I hope this can be improved.,Staff kindness,negative,2025-08-22
+111,I went in with severe stomach pain on a public holiday. The waiting room chairs were hard and there were not enough of them. It was a very stressful experience.,Cleanliness and facilities,negative,2025-12-25
+112,I took my daughter in with a high fever at 2 am. The front desk staff seemed annoyed when I asked a question. I left feeling frustrated.,Staff kindness,negative,2025-07-07
+113,"I brought my son in after a fall at school. I felt like a number, not a person. I left feeling frustrated.",Staff kindness,negative,2026-05-22
+114,My mother was sent in by her GP on a weekday morning. The signs were confusing and we went to the wrong entrance. I hope this can be improved.,Parking and access,negative,2026-03-25
+115,My father is elderly and had a dizzy spell. The toilets were dirty and had no soap. This needs to change.,Cleanliness and facilities,negative,2026-02-09
+116,I arrived by ambulance late in the evening. The waiting room chairs were hard and there were not enough of them. I left feeling frustrated.,Cleanliness and facilities,negative,2026-02-16
+117,I went in with severe stomach pain on a public holiday. There was a long queue just to speak to the triage nurse. This needs to change.,Triage process,negative,2025-12-20
+118,I took my daughter in with a high fever at 2 am. Nobody told us how long the wait would be. This needs to change.,Waiting time,negative,2025-10-17
+119,I took my daughter in with a high fever at 2 am. The discharge was rushed and nobody explained my medicine. I left feeling frustrated.,Discharge information,negative,2026-04-11
+120,I arrived by ambulance late in the evening. I waited more than five hours before a doctor saw me. I hope this can be improved.,Waiting time,negative,2026-01-25
+121,I arrived by ambulance late in the evening. It was a long walk from the car park for someone in pain. This needs to change.,Parking and access,negative,2026-05-27
+122,I came in on a Saturday night with chest pain. Parking was expensive and the car park was full. I left feeling frustrated.,Parking and access,negative,2025-10-22
+123,"I arrived by ambulance late in the evening. I felt like a number, not a person. I left feeling frustrated.",Staff kindness,negative,2026-02-28
+124,My father is elderly and had a dizzy spell. The discharge was rushed and nobody explained my medicine. I left feeling frustrated.,Discharge information,negative,2026-06-25
+125,I walked in with a bad cut on my hand. The signs were confusing and we went to the wrong entrance. I hope this can be improved.,Parking and access,negative,2025-08-31
+126,I came in after a car accident on a Monday afternoon. Triage was quick and they explained why others might go first. I would recommend this hospital.,Triage process,positive,2025-08-21
+127,I arrived by ambulance late in the evening. I did not understand why I was given a low priority. I hope this can be improved.,Triage process,negative,2025-12-02
+128,My father is elderly and had a dizzy spell. Nobody told us how long the wait would be. I left feeling frustrated.,Waiting time,negative,2025-07-24
+129,I went in with severe stomach pain on a public holiday. The nurse kept checking in and told us what would happen next. It made a stressful day much easier.,Staff communication,positive,2026-03-03
+130,My mother was sent in by her GP on a weekday morning. Parking was expensive and the car park was full. I left feeling frustrated.,Parking and access,negative,2026-03-02
+131,"My husband had trouble breathing, so we went straight in. The nurse kept checking in and told us what would happen next. Thank you to the team.",Staff communication,positive,2026-04-22
+132,My mother was sent in by her GP on a weekday morning. They moved me through quickly even though it looked busy. I would recommend this hospital.,Waiting time,positive,2025-08-13
+133,My father is elderly and had a dizzy spell. Triage was quick and they explained why others might go first. I felt well looked after.,Triage process,positive,2026-03-25
+134,"I came in after a car accident on a Monday afternoon. I felt like a number, not a person. This needs to change.",Staff kindness,negative,2025-12-04
+135,I brought my son in after a fall at school. Nobody told us how long the wait would be. I hope this can be improved.,Waiting time,negative,2025-11-13
+136,I arrived by ambulance late in the evening. The doctor explained everything in plain words. Thank you to the team.,Staff communication,positive,2025-09-19
+137,I came in after a car accident on a Monday afternoon. We sat for hours with no update at all. I left feeling frustrated.,Waiting time,negative,2025-07-17
+138,I arrived by ambulance late in the evening. The doctor used medical words I did not understand. I hope this can be improved.,Staff communication,negative,2026-02-03
+139,I arrived by ambulance late in the evening. Different staff told me different things. I left feeling frustrated.,Staff communication,negative,2025-09-11
+140,My mother was sent in by her GP on a weekday morning. The nurse kept checking in and told us what would happen next. I would recommend this hospital.,Staff communication,positive,2026-02-10
+141,I brought my son in after a fall at school. It was a long walk from the car park for someone in pain. It was a very stressful experience.,Parking and access,negative,2026-02-07
+142,I walked in with a bad cut on my hand. I was sent home without knowing what to do next. It was a very stressful experience.,Discharge information,negative,2025-10-26
+143,I walked in with a bad cut on my hand. I waited more than five hours before a doctor saw me. I hope this can be improved.,Waiting time,negative,2026-02-26
+144,My mother was sent in by her GP on a weekday morning. It was a long walk from the car park for someone in pain. This needs to change.,Parking and access,negative,2026-05-22
+145,I came in after a car accident on a Monday afternoon. The signs made it easy to find the emergency entrance. It made a stressful day much easier.,Parking and access,positive,2025-12-18
+146,I brought my son in after a fall at school. I was sent home without knowing what to do next. I left feeling frustrated.,Discharge information,negative,2026-01-27
+147,"My husband had trouble breathing, so we went straight in. It was a long walk from the car park for someone in pain. It was a very stressful experience.",Parking and access,negative,2026-02-18
+148,I walked in with a bad cut on my hand. The doctor used medical words I did not understand. It was a very stressful experience.,Staff communication,negative,2026-01-23
+149,My father is elderly and had a dizzy spell. We sat for hours with no update at all. This needs to change.,Waiting time,negative,2025-07-28
+150,I took my daughter in with a high fever at 2 am. There was a long queue just to speak to the triage nurse. This needs to change.,Triage process,negative,2026-05-17
+151,I arrived by ambulance late in the evening. The signs made it easy to find the emergency entrance. I felt well looked after.,Parking and access,positive,2025-11-25
+152,I came in after a car accident on a Monday afternoon. Parking was expensive and the car park was full. It was a very stressful experience.,Parking and access,negative,2026-05-19
+153,My mother was sent in by her GP on a weekday morning. I did not understand why I was given a low priority. It was a very stressful experience.,Triage process,negative,2026-04-09
+154,I arrived by ambulance late in the evening. Every staff member was kind and patient with us. It made a stressful day much easier.,Staff kindness,positive,2025-08-30
+155,I walked in with a bad cut on my hand. Nobody asked how bad the pain was. I left feeling frustrated.,Pain management,negative,2026-01-29
+156,I arrived by ambulance late in the evening. The signs were confusing and we went to the wrong entrance. I hope this can be improved.,Parking and access,negative,2026-01-13
+157,My father is elderly and had a dizzy spell. There was a long queue just to speak to the triage nurse. I hope this can be improved.,Triage process,negative,2025-08-05
+158,I took my daughter in with a high fever at 2 am. It was very cold and noisy in the waiting area. I left feeling frustrated.,Cleanliness and facilities,negative,2025-07-02
+159,I walked in with a bad cut on my hand. It was very cold and noisy in the waiting area. This needs to change.,Cleanliness and facilities,negative,2025-09-15
+160,I came in after a car accident on a Monday afternoon. The signs were confusing and we went to the wrong entrance. I left feeling frustrated.,Parking and access,negative,2026-04-09
+161,I took my daughter in with a high fever at 2 am. The front desk staff seemed annoyed when I asked a question. I hope this can be improved.,Staff kindness,negative,2026-04-19
+162,"My husband had trouble breathing, so we went straight in. Every staff member was kind and patient with us. I would recommend this hospital.",Staff kindness,positive,2026-02-28
+163,"My mother was sent in by her GP on a weekday morning. I felt like a number, not a person. It was a very stressful experience.",Staff kindness,negative,2025-09-03
+164,I came in after a car accident on a Monday afternoon. I got clear written instructions before I went home. It made a stressful day much easier.,Discharge information,positive,2025-07-08
+165,My mother was sent in by her GP on a weekday morning. I waited three hours in pain before getting any relief. This needs to change.,Pain management,negative,2025-11-13
+166,"My husband had trouble breathing, so we went straight in. I never received the letter for my GP. It was a very stressful experience.",Discharge information,negative,2025-12-16
+167,I came in after a car accident on a Monday afternoon. One staff member was quite short with my elderly father. It was a very stressful experience.,Staff kindness,negative,2026-05-13
+168,I brought my son in after a fall at school. A nurse brought my mother a blanket and a cup of tea. I felt well looked after.,Staff kindness,positive,2026-06-21
+169,I came in on a Saturday night with chest pain. The toilets were clean and there was a water station. Thank you to the team.,Cleanliness and facilities,positive,2025-11-28
+170,"My husband had trouble breathing, so we went straight in. I was sent home without knowing what to do next. I hope this can be improved.",Discharge information,negative,2026-03-29
+171,I came in after a car accident on a Monday afternoon. They took my pain seriously from the start. I would recommend this hospital.,Pain management,positive,2026-02-21
+172,I came in on a Saturday night with chest pain. The toilets were dirty and had no soap. I left feeling frustrated.,Cleanliness and facilities,negative,2026-06-12
+173,I came in after a car accident on a Monday afternoon. The nurse asked about my pain often and adjusted the medicine. I would recommend this hospital.,Pain management,positive,2026-05-24
+174,"I walked in with a bad cut on my hand. I felt like a number, not a person. I left feeling frustrated.",Staff kindness,negative,2025-10-10
+175,I brought my son in after a fall at school. The front desk staff seemed annoyed when I asked a question. This needs to change.,Staff kindness,negative,2026-04-19
+176,I walked in with a bad cut on my hand. I never received the letter for my GP. I left feeling frustrated.,Discharge information,negative,2025-07-12
+177,I came in on a Saturday night with chest pain. One staff member was quite short with my elderly father. It was a very stressful experience.,Staff kindness,negative,2026-05-07
+178,I arrived by ambulance late in the evening. It was a long walk from the car park for someone in pain. I left feeling frustrated.,Parking and access,negative,2025-10-21
+179,I walked in with a bad cut on my hand. There was a long queue just to speak to the triage nurse. I hope this can be improved.,Triage process,negative,2026-05-18
+180,I came in on a Saturday night with chest pain. The doctor used medical words I did not understand. This needs to change.,Staff communication,negative,2025-07-18
+181,My mother was sent in by her GP on a weekday morning. I was sent home without knowing what to do next. I left feeling frustrated.,Discharge information,negative,2025-12-15
+182,I arrived by ambulance late in the evening. Every staff member was kind and patient with us. I would recommend this hospital.,Staff kindness,positive,2026-03-29
+183,I walked in with a bad cut on my hand. The toilets were clean and there was a water station. I would recommend this hospital.,Cleanliness and facilities,positive,2025-12-21
+184,I brought my son in after a fall at school. Different staff told me different things. I hope this can be improved.,Staff communication,negative,2026-06-12
+185,I took my daughter in with a high fever at 2 am. The front desk staff seemed annoyed when I asked a question. This needs to change.,Staff kindness,negative,2025-07-08
+186,I brought my son in after a fall at school. The toilets were dirty and had no soap. I left feeling frustrated.,Cleanliness and facilities,negative,2026-06-10
+187,"My husband had trouble breathing, so we went straight in. It was very cold and noisy in the waiting area. I left feeling frustrated.",Cleanliness and facilities,negative,2025-08-25
+188,I came in on a Saturday night with chest pain. There was a long queue just to speak to the triage nurse. I left feeling frustrated.,Triage process,negative,2026-05-09
+189,I brought my son in after a fall at school. There was a long queue just to speak to the triage nurse. This needs to change.,Triage process,negative,2026-06-24
+190,"My husband had trouble breathing, so we went straight in. The waiting room chairs were hard and there were not enough of them. I hope this can be improved.",Cleanliness and facilities,negative,2025-07-24
+191,I came in after a car accident on a Monday afternoon. I waited more than five hours before a doctor saw me. It was a very stressful experience.,Waiting time,negative,2025-10-29
+192,I came in after a car accident on a Monday afternoon. I asked for pain relief twice and nothing happened. This needs to change.,Pain management,negative,2026-04-27
+193,I brought my son in after a fall at school. I asked for pain relief twice and nothing happened. This needs to change.,Pain management,negative,2025-11-21
+194,I took my daughter in with a high fever at 2 am. Parking was close and easy to find. I would recommend this hospital.,Parking and access,positive,2026-04-05
+195,"My husband had trouble breathing, so we went straight in. They explained my medicine and when to see my GP. I felt well looked after.",Discharge information,positive,2025-09-01
+196,"I arrived by ambulance late in the evening. There was a drop-off bay right at the door, which helped a lot. Thank you to the team.",Parking and access,positive,2025-07-26
+197,My mother was sent in by her GP on a weekday morning. The nurse made sure I knew the warning signs to watch for. I felt well looked after.,Discharge information,positive,2025-08-05
+198,I arrived by ambulance late in the evening. The triage questions felt rushed and I forgot to mention things. I left feeling frustrated.,Triage process,negative,2025-09-14
+199,My mother was sent in by her GP on a weekday morning. Nobody told us how long the wait would be. I left feeling frustrated.,Waiting time,negative,2025-09-28
+200,I went in with severe stomach pain on a public holiday. They explained my medicine and when to see my GP. Thank you to the team.,Discharge information,positive,2025-09-28
